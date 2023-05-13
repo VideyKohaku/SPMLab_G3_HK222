@@ -1,1 +1,2 @@
-New content for lab 4
+New content for lab 4:
+    - This is the original line
